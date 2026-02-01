@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.agregarTareas{
+    background-color: rgb(145, 118, 118);
+    padding: 20px;
+    
+}
