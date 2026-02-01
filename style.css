@@ -2,9 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
 }
 .agregarTareas{
     background-color: rgb(145, 118, 118);
     padding: 20px;
     
+}
+.inputAgregarTarea{
+    padding: 5px; 
+    
+}
+.botonAgregarTarea{
+    padding: 5px 10px;
+    background-color: rgb(97, 97, 97);
+    color: white;
+    cursor: pointer;
 }
