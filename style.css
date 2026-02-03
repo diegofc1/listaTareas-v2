@@ -19,3 +19,18 @@
     color: white;
     cursor: pointer;
 }
+.listaTareas{
+    background-color: rgb(158, 184, 151);
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-evenly;
+}
+.tarea, .eliminar{
+    padding: 5px; 
+}
+.tarea{
+    display: flex; 
+    justify-content: space-between;
+}
